@@ -3,12 +3,18 @@
 
 <h3>Welcome to my page!
   
-I'm Mayank Sharma, Frontend developer from <img src="https://www.flaticon.com/svg/static/icons/svg/408/408935.svg" width="13"/> <b>Gujarat India</b>, currently living in <img src="https://www.flaticon.com/svg/static/icons/svg/408/408935.svg" width="13"/> <b>Vadodara, Gujarat</b>. </h3>
+I'm Mayank Sharma, Frontend developer from <img src="https://www.flaticon.com/svg/static/icons/svg/408/408935.svg" width="13"/> <b>India</b>, currently living in <img src="https://www.flaticon.com/svg/static/icons/svg/408/408935.svg" width="13"/> <b>Vadodara, Gujarat</b>. </h3>
 
 𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
 
 <h4>Things I code with</h4>
 <p>
+  ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+  </p>
+  <p>
+  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
@@ -18,9 +24,8 @@ I'm Mayank Sharma, Frontend developer from <img src="https://www.flaticon.com/sv
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   
-  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   
