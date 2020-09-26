@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
+<h1>👋 Hey, nice to see you.</h1>
 
 
 <h3>Welcome to my page! </br> I'm Mayank Sharma, Frontend developer from <img src="https://www.flaticon.com/svg/static/icons/svg/408/408935.svg" width="13"/> <b>Gujarat India</b>, currently living in <img src="https://www.flaticon.com/svg/static/icons/svg/408/408935.svg" width="13"/> <b>Vadodara, Gujarat</b>. </h3>
