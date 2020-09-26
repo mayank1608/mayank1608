@@ -1,7 +1,12 @@
 <h1>👋 Hey, nice to see you.</h1>
 
 
-<h3>Welcome to my page! </br> I'm Mayank Sharma, Frontend developer from <img src="https://www.flaticon.com/svg/static/icons/svg/408/408935.svg" width="13"/> <b>Gujarat India</b>, currently living in <img src="https://www.flaticon.com/svg/static/icons/svg/408/408935.svg" width="13"/> <b>Vadodara, Gujarat</b>. </h3>
+<h3>Welcome to my page!
+  
+I'm Mayank Sharma, Frontend developer from <img src="https://www.flaticon.com/svg/static/icons/svg/408/408935.svg" width="13"/> <b>Gujarat India</b>, currently living in <img src="https://www.flaticon.com/svg/static/icons/svg/408/408935.svg" width="13"/> <b>Vadodara, Gujarat</b>. </h3>
+
+𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
+
 <h4>Things I code with</h4>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
