@@ -22,7 +22,7 @@ I'm Mayank Sharma, Frontend developer from <img src="https://www.flaticon.com/sv
 
 <p>
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
-  <img alt="Gulp" src="https://img.shields.io/badge/-Gulp-DB4446?style=flat-square&logo=gulp&logoColor=#white" /> 
+  <img alt="Gulp" src="https://img.shields.io/badge/-Gulp-DB4446?style=flat-square&logo=gulp&logoColor=white" /> 
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
 </p>
 
