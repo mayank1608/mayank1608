@@ -16,7 +16,7 @@ I'm Mayank Sharma, Frontend developer from <img src="https://www.flaticon.com/sv
 </p>
   
 <p>
-  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <a href="https://angular.io/" target="_blank"><img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" /></a>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 </p>
 
