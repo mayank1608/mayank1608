@@ -43,11 +43,6 @@ I'm Mayank Sharma, Frontend developer from <img src="https://www.flaticon.com/sv
 	<img alt="mysql" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" height="30" />
 </p>
  
-<p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" height="30" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" height="30" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" height="30" />
-</p>
 <h4>Follow me on</h4> 
 <p>
   <a href="https://www.linkedin.com/in/mayank-sharma-46b89bb4/" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30" /></a>
