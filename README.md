@@ -1,7 +1,7 @@
 <h1>👋 Hey, nice to see you.</h1>
 
 
-<h3>Welcome to my page!<br>
+<h3>Welcome to my page!<br><br>
   
 I'm Mayank Sharma, Frontend developer from <img src="https://www.flaticon.com/svg/static/icons/svg/3336/3336063.svg" width="18"/> <b>India</b>, currently living in <b>Vadodara, Gujarat</b>. </h3>
 
