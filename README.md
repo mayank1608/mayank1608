@@ -3,7 +3,7 @@
 
 <h3>Welcome to my page!<br><br>
   
-I'm Mayank Sharma, Frontend developer from <img src="https://www.flaticon.com/svg/static/icons/svg/3336/3336063.svg" width="18"/> <b>India</b>, currently living in <b>Vadodara, Gujarat</b>. </h3>
+I'm Mayank Sharma, Frontend developer from <img src="https://cdn.pixabay.com/animation/2022/08/21/20/03/20-03-41-348_512.gif" width="18"/> <b>India</b>, currently living in <b>Vadodara, Gujarat</b>. </h3>
 
 𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
 
